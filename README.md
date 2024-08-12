@@ -56,17 +56,16 @@ Welcome to Alien Invasion! The goal of the game is to shoot down waves of aliens
 
 ## Project Structure
 
-alien-invasion/
-│
-├── alien_invasion.py          # Main game loop and class
-├── settings.py                # Settings and configuration for the game
-├── game_stats.py              # Game statistics tracking
-├── scoreboard.py              # Display and update game score, levels, and lives
-├── button.py                  # Play button implementation
-├── ship.py                    # Player's ship logic
-├── bullet.py                  # Bullet logic
-├── alien.py                   # Alien logic
-└── README.md                  # This file
+
+alien_invasion.py          # Main game loop and class
+settings.py                # Settings and configuration for the game
+game_stats.py              # Game statistics tracking
+scoreboard.py              # Display and update game score, levels, and lives
+button.py                  # Play button implementation
+ship.py                    # Player's ship logic
+bullet.py                  # Bullet logic
+alien.py                   # Alien logic
+README.md                  # This file
 
 ## Features
 Alien Invasion includes a variety of features to enhance your gaming experience:
